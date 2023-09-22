@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\birthdayParty\bin\Debug\birthdayParty.exe
+E:\RiderProjects\ProgrammingBasicsCS\birthdayParty\bin\Debug\birthdayParty.pdb
+E:\RiderProjects\ProgrammingBasicsCS\birthdayParty\obj\Debug\birthdayParty.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\birthdayParty\obj\Debug\birthdayParty.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\birthdayParty\obj\Debug\birthdayParty.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\birthdayParty\obj\Debug\birthdayParty.exe
+E:\RiderProjects\ProgrammingBasicsCS\birthdayParty\obj\Debug\birthdayParty.pdb
