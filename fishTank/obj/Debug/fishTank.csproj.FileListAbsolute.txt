@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\fishTank\bin\Debug\fishTank.exe
+E:\RiderProjects\ProgrammingBasicsCS\fishTank\bin\Debug\fishTank.pdb
+E:\RiderProjects\ProgrammingBasicsCS\fishTank\obj\Debug\fishTank.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\fishTank\obj\Debug\fishTank.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\fishTank\obj\Debug\fishTank.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\fishTank\obj\Debug\fishTank.exe
+E:\RiderProjects\ProgrammingBasicsCS\fishTank\obj\Debug\fishTank.pdb
