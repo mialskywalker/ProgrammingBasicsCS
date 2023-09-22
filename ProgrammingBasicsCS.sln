@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDtoBGN", "USDtoBGN\USDtoBGN.csproj", "{F7E117CE-740D-4725-8830-66DBCE0289B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiansToDegrees", "RadiansToDegrees\RadiansToDegrees.csproj", "{734F40BF-E875-47F4-BE0E-C37D0D2B6578}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FirstStepsInCoding", "FirstStepsInCoding", "{4EFFFEFF-3E59-4C2C-8129-A068CC244A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E117CE-740D-4725-8830-66DBCE0289B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E117CE-740D-4725-8830-66DBCE0289B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E117CE-740D-4725-8830-66DBCE0289B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E117CE-740D-4725-8830-66DBCE0289B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734F40BF-E875-47F4-BE0E-C37D0D2B6578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734F40BF-E875-47F4-BE0E-C37D0D2B6578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734F40BF-E875-47F4-BE0E-C37D0D2B6578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734F40BF-E875-47F4-BE0E-C37D0D2B6578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{734F40BF-E875-47F4-BE0E-C37D0D2B6578} = {4EFFFEFF-3E59-4C2C-8129-A068CC244A8B}
+		{F7E117CE-740D-4725-8830-66DBCE0289B3} = {4EFFFEFF-3E59-4C2C-8129-A068CC244A8B}
+	EndGlobalSection
+EndGlobal

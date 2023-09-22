@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\USDtoBGN\bin\Debug\USDtoBGN.exe
+E:\RiderProjects\ProgrammingBasicsCS\USDtoBGN\bin\Debug\USDtoBGN.pdb
+E:\RiderProjects\ProgrammingBasicsCS\USDtoBGN\obj\Debug\USDtoBGN.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\USDtoBGN\obj\Debug\USDtoBGN.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\USDtoBGN\obj\Debug\USDtoBGN.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\USDtoBGN\obj\Debug\USDtoBGN.exe
+E:\RiderProjects\ProgrammingBasicsCS\USDtoBGN\obj\Debug\USDtoBGN.pdb
