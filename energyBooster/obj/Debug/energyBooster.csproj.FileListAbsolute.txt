@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\energyBooster\bin\Debug\energyBooster.exe
+E:\RiderProjects\ProgrammingBasicsCS\energyBooster\bin\Debug\energyBooster.pdb
+E:\RiderProjects\ProgrammingBasicsCS\energyBooster\obj\Debug\energyBooster.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\energyBooster\obj\Debug\energyBooster.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\energyBooster\obj\Debug\energyBooster.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\energyBooster\obj\Debug\energyBooster.exe
+E:\RiderProjects\ProgrammingBasicsCS\energyBooster\obj\Debug\energyBooster.pdb
