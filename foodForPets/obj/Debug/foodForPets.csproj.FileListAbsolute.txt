@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\foodForPets\bin\Debug\foodForPets.exe
+E:\RiderProjects\ProgrammingBasicsCS\foodForPets\bin\Debug\foodForPets.pdb
+E:\RiderProjects\ProgrammingBasicsCS\foodForPets\obj\Debug\foodForPets.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\foodForPets\obj\Debug\foodForPets.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\foodForPets\obj\Debug\foodForPets.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\foodForPets\obj\Debug\foodForPets.exe
+E:\RiderProjects\ProgrammingBasicsCS\foodForPets\obj\Debug\foodForPets.pdb
