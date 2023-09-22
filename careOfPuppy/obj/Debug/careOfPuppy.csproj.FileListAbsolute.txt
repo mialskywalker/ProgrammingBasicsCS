@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\careOfPuppy\bin\Debug\careOfPuppy.exe
+E:\RiderProjects\ProgrammingBasicsCS\careOfPuppy\bin\Debug\careOfPuppy.pdb
+E:\RiderProjects\ProgrammingBasicsCS\careOfPuppy\obj\Debug\careOfPuppy.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\careOfPuppy\obj\Debug\careOfPuppy.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\careOfPuppy\obj\Debug\careOfPuppy.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\careOfPuppy\obj\Debug\careOfPuppy.exe
+E:\RiderProjects\ProgrammingBasicsCS\careOfPuppy\obj\Debug\careOfPuppy.pdb
