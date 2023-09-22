@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\vacationBooksList\bin\Debug\vacationBooksList.exe
+E:\RiderProjects\ProgrammingBasicsCS\vacationBooksList\bin\Debug\vacationBooksList.pdb
+E:\RiderProjects\ProgrammingBasicsCS\vacationBooksList\obj\Debug\vacationBooksList.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\vacationBooksList\obj\Debug\vacationBooksList.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\vacationBooksList\obj\Debug\vacationBooksList.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\vacationBooksList\obj\Debug\vacationBooksList.exe
+E:\RiderProjects\ProgrammingBasicsCS\vacationBooksList\obj\Debug\vacationBooksList.pdb

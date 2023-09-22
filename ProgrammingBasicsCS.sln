@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FirstStepsInCoding", "First
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "depositCalculator", "depositCalculator\depositCalculator.csproj", "{6038FAF7-A62B-44F5-88E4-5B52070E687C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vacationBooksList", "vacationBooksList\vacationBooksList.csproj", "{9182FA90-77C0-429D-BA6A-E936260FFEB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,10 +28,15 @@ Global
 		{6038FAF7-A62B-44F5-88E4-5B52070E687C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6038FAF7-A62B-44F5-88E4-5B52070E687C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6038FAF7-A62B-44F5-88E4-5B52070E687C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9182FA90-77C0-429D-BA6A-E936260FFEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9182FA90-77C0-429D-BA6A-E936260FFEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9182FA90-77C0-429D-BA6A-E936260FFEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9182FA90-77C0-429D-BA6A-E936260FFEB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{734F40BF-E875-47F4-BE0E-C37D0D2B6578} = {4EFFFEFF-3E59-4C2C-8129-A068CC244A8B}
 		{F7E117CE-740D-4725-8830-66DBCE0289B3} = {4EFFFEFF-3E59-4C2C-8129-A068CC244A8B}
 		{6038FAF7-A62B-44F5-88E4-5B52070E687C} = {4EFFFEFF-3E59-4C2C-8129-A068CC244A8B}
+		{9182FA90-77C0-429D-BA6A-E936260FFEB6} = {4EFFFEFF-3E59-4C2C-8129-A068CC244A8B}
 	EndGlobalSection
 EndGlobal
