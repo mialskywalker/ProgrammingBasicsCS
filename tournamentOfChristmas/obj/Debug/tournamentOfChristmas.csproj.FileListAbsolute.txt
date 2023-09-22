@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\tournamentOfChristmas\bin\Debug\tournamentOfChristmas.exe
+E:\RiderProjects\ProgrammingBasicsCS\tournamentOfChristmas\bin\Debug\tournamentOfChristmas.pdb
+E:\RiderProjects\ProgrammingBasicsCS\tournamentOfChristmas\obj\Debug\tournamentOfChristmas.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\tournamentOfChristmas\obj\Debug\tournamentOfChristmas.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\tournamentOfChristmas\obj\Debug\tournamentOfChristmas.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\tournamentOfChristmas\obj\Debug\tournamentOfChristmas.exe
+E:\RiderProjects\ProgrammingBasicsCS\tournamentOfChristmas\obj\Debug\tournamentOfChristmas.pdb
