@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\computerStore\bin\Debug\computerStore.exe
+E:\RiderProjects\ProgrammingBasicsCS\computerStore\bin\Debug\computerStore.pdb
+E:\RiderProjects\ProgrammingBasicsCS\computerStore\obj\Debug\computerStore.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\computerStore\obj\Debug\computerStore.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\computerStore\obj\Debug\computerStore.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\computerStore\obj\Debug\computerStore.exe
+E:\RiderProjects\ProgrammingBasicsCS\computerStore\obj\Debug\computerStore.pdb
