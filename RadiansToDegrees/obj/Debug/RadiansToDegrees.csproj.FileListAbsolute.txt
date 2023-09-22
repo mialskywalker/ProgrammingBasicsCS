@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+E:\RiderProjects\ProgrammingBasicsCS\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+E:\RiderProjects\ProgrammingBasicsCS\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+E:\RiderProjects\ProgrammingBasicsCS\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

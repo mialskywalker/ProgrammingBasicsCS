@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\depositCalculator\bin\Debug\depositCalculator.exe
+E:\RiderProjects\ProgrammingBasicsCS\depositCalculator\bin\Debug\depositCalculator.pdb
+E:\RiderProjects\ProgrammingBasicsCS\depositCalculator\obj\Debug\depositCalculator.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\depositCalculator\obj\Debug\depositCalculator.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\depositCalculator\obj\Debug\depositCalculator.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\depositCalculator\obj\Debug\depositCalculator.exe
+E:\RiderProjects\ProgrammingBasicsCS\depositCalculator\obj\Debug\depositCalculator.pdb
