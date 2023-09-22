@@ -1,0 +1,7 @@
+E:\RiderProjects\ProgrammingBasicsCS\catWalking\bin\Debug\catWalking.exe
+E:\RiderProjects\ProgrammingBasicsCS\catWalking\bin\Debug\catWalking.pdb
+E:\RiderProjects\ProgrammingBasicsCS\catWalking\obj\Debug\catWalking.csproj.AssemblyReference.cache
+E:\RiderProjects\ProgrammingBasicsCS\catWalking\obj\Debug\catWalking.csproj.SuggestedBindingRedirects.cache
+E:\RiderProjects\ProgrammingBasicsCS\catWalking\obj\Debug\catWalking.csproj.CoreCompileInputs.cache
+E:\RiderProjects\ProgrammingBasicsCS\catWalking\obj\Debug\catWalking.exe
+E:\RiderProjects\ProgrammingBasicsCS\catWalking\obj\Debug\catWalking.pdb
